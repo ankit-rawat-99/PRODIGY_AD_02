@@ -7,7 +7,7 @@
     <EditText
         android:id="@+id/edit_text"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:hint="Enter new task"
         android:paddingStart="7dp"
         android:paddingEnd="7dp"
